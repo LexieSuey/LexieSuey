@@ -1,4 +1,20 @@
-## Hi there 👋
+<h1>¡Hola, soy Lexie! <br/><a href="https://github.com/LexieSuey"></a><a href="https://www.linkedin.com/in/lexiesuey/">Cybersecurity Learner</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/joshmadakor1/ad-homelab)
+
+<h2>📝 Medium posts:</h2>
+
+- [OTW - bandit Walkthrough](https://lexiesuey.medium.com)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/lexiesuey
+[linkedin]: https://linkedin.com/in/lexiesuey
 
 <!--
 **LexieSuey/LexieSuey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
