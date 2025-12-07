@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/ad-homelab)
+- [Azure Attack Map / HoneyPot](https://github.com/LexieSuey/azure)
 
 <h2>📝 Medium posts:</h2>
 
-- [OTW - bandit Walkthrough](https://lexiesuey.medium.com)
+- [Azure Attack Map / HoneyPot](https://lexiesuey.medium.com/azure-sentinel-map-project-qu%C3%A9-aprend%C3%AD-e5cbc968e0a0)
 
 <h2> 🤳 Connect with me:</h2>
 
