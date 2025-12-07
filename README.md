@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Attack Map / HoneyPot](https://github.com/LexieSuey/azure)
+- [Azure Attack Map / HoneyPot](https://github.com/LexieSuey/azure-map-attack)
 
 <h2>📝 Medium posts:</h2>
 
