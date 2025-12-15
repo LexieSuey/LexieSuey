@@ -1,4 +1,6 @@
 <h1>¡Hola, soy Lexie! <br/><a href="https://github.com/LexieSuey"></a><a href="https://www.linkedin.com/in/lexiesuey/">Cybersecurity Learner</a></h1>
+<h2>About:</h2>
+<p>Soy una entusiasta del conocimiento y la investigación, encontrando soluciones a cada problema que se presenta. Me gusta ayudar a las personas y priorizo la ciberseguridad por encima de todo. Pongo mucho esfuerzo en la gestión del tiempo y el cumplimiento de las leyes, que son esenciales para garantizar la conformidad organizacional y proteger los activos críticos</p>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
